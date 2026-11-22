@@ -1,4 +1,4 @@
-# iRiel Xcode - Your AI powerfully peer programmer.
+# iRiel Xcode Agent - Your AI powerfully peer programmer.
 
 **[iriel.ai](https://code.visualstudio.com/docs/iriel.xcode/overview)** is an AI Orchestration peer programming tool that helps you write code faster and smarter.
 
